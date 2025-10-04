@@ -11,9 +11,9 @@
 | (Italy)                                                                                           |        |       |                    |                                |     |       |                            |
 | Lorca                                                                                             | 5.1    | 1     | Strike-slip        | f233°                          | 45° | 42°   | Lopez-Camino et al. (2016) |
 | (Spain)                                                                                           |        |       |                    |                                |     |       |                            |
-| a: https://earthquake.usgs.gov/earthquakes/eventpage/usc000nzvd/moment-tensor                     |        |       |                    |                                |     |       |                            |
-| b: https://deprem.afad.gov.tr/event-detail/408326                                                 |        |       |                    |                                |     |       |                            |
-| c: https://earthquake.usgs.gov/product/shakemap/us6000jllz/us/1675660631596/download/rupture.json |        |       |                    |                                |     |       |                            |
-| d: https://earthquake.usgs.gov/earthquakes/eventpage/us20005iis/moment-tensor                     |        |       |                    |                                |     |       |                            |
-| e: https://earthquake.usgs.gov/earthquakes/eventpage/usp000gvtu/moment-tensor                     |        |       |                    |                                |     |       |                            |
+| a: https://earthquake.usgs.gov/earthquakes/eventpage/usc000nzvd/moment-tensor                           |
+| b: https://deprem.afad.gov.tr/event-detail/408326                           |
+| c: https://earthquake.usgs.gov/product/shakemap/us6000jllz/us/1675660631596/download/rupture.json                           |
+| d: https://earthquake.usgs.gov/earthquakes/eventpage/us20005iis/moment-tensor                         |
+| e: https://earthquake.usgs.gov/earthquakes/eventpage/usp000gvtu/moment-tensor                           |
 | f: https://earthquake.usgs.gov/earthquakes/eventpage/usp000j1en/moment-tensor                     |        |       |                    |                                |     |       |                            |
