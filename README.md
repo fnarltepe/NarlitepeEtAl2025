@@ -67,3 +67,12 @@
     </tr>
   </tbody>
 </table>
+
+- <sup>a</sup>: https://earthquake.usgs.gov/earthquakes/eventpage/usc000nzvd/moment-tensor
+- <sup>b</sup>: https://deprem.afad.gov.tr/event-detail/408326
+- <sup>c</sup>: https://earthquake.usgs.gov/product/shakemap/us6000jllz/us/1675660631596/download/rupture.json
+- <sup>d</sup>: https://earthquake.usgs.gov/earthquakes/eventpage/us20005iis/moment-tensor  				
+- <sup>e</sup>: https://earthquake.usgs.gov/earthquakes/eventpage/usp000gvtu/moment-tensor   
+- <sup>f</sup>: https://earthquake.usgs.gov/earthquakes/eventpage/usp000j1en/moment-tensor  	
+
+
