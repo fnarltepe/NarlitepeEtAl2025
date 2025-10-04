@@ -1,8 +1,7 @@
 # Rupture-Models
 
-| Earthquake Scenario                                                                               | Mw     | Depth | Faulting Mechanism | Causative Nodal Plane |     |       | Finite-Fault Solution      |
+| Earthquake Scenario (Country)                                                                               | Mw (USGS)      | Depth (km) | Faulting Mechanism | Causative Nodal Plane  | Finite-Fault Solution      |
 |---------------------------------------------------------------------------------------------------|--------|-------|--------------------|--------------------------------|-----|-------|----------------------------|
-| (Country)                                                                                         | (USGS) | (km)  |                    | Strike                         | Dip | Rake  |                            |
 | Iquique (Chile)                                                                                            | 8.2    | 25    | Thrust             | a358°                          | 12° | 107°  | Hayes (2017)               |
 | Kahramanmaras (Türkiye)                                                                           | 7.8    | 8.6   | Strike-slip        | b233°                          | 74° | 18°   | Goldberg et al. (2023)c    |
 | Kumamoto (Japan)                                                                                  | 7      | 10    | Strike-slip        | d224°                          | 66° | -152° | Yagi et al. (2016)         |
