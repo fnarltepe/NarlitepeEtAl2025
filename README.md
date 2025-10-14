@@ -142,7 +142,7 @@ The computational implementation and evaluation of these diverse rupture modelin
   <span style="font-size: 28px;"> References </span>
 </h1>
 
-###### **Danciu, L., Giardini, D., Weatherill, G., Basili, R., Nandan, S., Rovida, A., Beauval, C., Bard, P.-Y., Pagani, M., Reyes, C. G., Sesetyan, K., Vilanova, S., Cotton, F., and Wiemer, S.** The 2020 European Seismic Hazard Model: overview and results, Nat. Hazards Earth Syst. Sci., 24, 3049–3073, https://doi.org/10.5194/nhess-24-3049-2024, 2024.
+###### **Danciu, L., Giardini, D., Weatherill, G., Basili, R., Nandan, S., Rovida, A., Beauval, C., Bard, P.-Y., Pagani, M., Reyes, C. G., Sesetyan, K., Vilanova, S., Cotton, F., and Wiemer, S.** The 2020 European Seismic Hazard Model: overview and results, Nat. Hazards Earth Syst. Sci., 24, 3049–3073.
 
 ###### **Gallovič, F., Imperatori, W., & Mai, P. M.** (2015). Effects of three-dimensional crustal structure and smoothing constraint on earthquake slip inversions: Case study of the Mw6.3 2009 L'Aquila earthquake. Journal of Geophysical Research, 120, 428–449.
 
