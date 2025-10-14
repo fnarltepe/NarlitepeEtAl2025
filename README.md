@@ -3,7 +3,11 @@
   <span style="font-size: 28px;"> Overview</span>
 </h1>
 <p align="justify">
-This repository hosts the rupture models for the study titled "Impact of Rupture Geometry Modeling on Rapid Earthquake Loss Assessments." The research addresses a critical challenge in post-earthquake response: accurately estimating ground shaking when detailed rupture information is not immediately available. We systematically evaluate the performance of different rupture modeling approaches,from simple Point-Source models to Planar and Pre-Calculated ruptures, against a Benchmark model. This evaluation is conducted over a set of scenario earthquakes, allowing for a controlled comparison of how each method performs across different magnitudes and tectonic contexts.
+This repository serves as an archive for the  rupture models used in the study, "Impact of Rupture Geometry Modeling on Rapid Earthquake Loss Assessments." The research addresses a pivotal challenge in the field of rapid impact assessment: the accurate quantification of ground-shaking intensity in the immediate aftermath of a significant seismic event, when constraints on finite-fault rupture geometry are typically limited. To systematically investigate this issue, the study conducts a rigorous comparative analysis of different rupture modeling methodologies. These approaches are from simplified Point-Source approximations to more geometrically refined Planar and Pre-Calculated rupture models. The performance of these rupture models is evaluated against a Benchmark rupture model, which is based on detailed, published finite-fault solutions where available.
+
+The evaluation framework is applied to a comprehensive suite of scenario earthquakes, meticulously selected to encompass a diverse range of seismic magnitudes and tectonic settings. This enables a robust and systematic comparison, evaluating the sensitivity of loss estimates to the choice of rupture characterization across different seismogenic environments. 
+
+The findings provide critical insights and practical recommendations for enhancing the accuracy and reliability of rapid post-earthquake impact assessments, particularly for institutions and organizations responsible for emergency response and resource allocation.
 </p>
 
 <h1 align="left">
@@ -12,7 +16,7 @@ This repository hosts the rupture models for the study titled "Impact of Rupture
 </h1>
 
 <p align="justify">
-To evaluate rupture modeling approaches on the seismic loss estimates, we selected five historical earthquakes based on diverse criteria:
+To evaluate the impact of rupture modeling approaches on the seismic loss estimates, we selected five historical earthquakes based on diverse criteria:
 </p>
 
 ### - Magnitude Range
@@ -124,12 +128,12 @@ To evaluate rupture modeling approaches on the seismic loss estimates, we select
 </h1>
 
 <p align="justify">
-These different modeling options are tested using the OpenQuake engine (Pagani et al., 2014; Rao et al., 2025) for the specified past earthquakes that occurred in Chile, Türkiye, Japan, Italy, and Spain. We consider the number of buildings completely damaged as an impact metric for these analyses, providing insights into expected differences across different earthquake magnitudes. Additionally, we evaluate techniques to improve the accuracy and reliability of impact estimates. The flowchart below visualizes the procedure followed in this study.
+The computational implementation and evaluation of these diverse rupture modeling methodologies were conducted utilizing the OpenQuake engine (Pagani et al., 2014; Rao et al., 2025), an open-source seismic hazard and risk analysis toolkit. This comparative analysis, conducted on a set of earthquake scenarios from five seismically active countries (Chile, Turkey, Japan, Italy and Spain), examines how the influence of rupture patterns systematically influences loss estimates (number of completely damaged buildings). The methodological workflow employed in this investigation, from rupture generation to final impact assessment, is systematically delineated in the flowchart presented below.
 </p>
 
 
-<div align="center">
-  <img src="./Flowchart_1.jpg" width="1000" alt="Methodology">
+<div align="left">
+  <img src="./Flowchart_1.jpg" width="700" alt="Methodology">
 </div>
 
 
