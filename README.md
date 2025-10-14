@@ -138,15 +138,22 @@ These different modeling options are tested using the OpenQuake engine (Pagani e
   <span style="font-size: 28px;"> References </span>
 </h1>
 
-<div style="font-size: 10px; color: #666; line-height: 0.5;">
-<p> -<strong>Hayes, G.P., Myers, E.K., Dewey, J.W., Briggs, R.W., Earle, P.S., Benz, H.M., Smoczyk, G.M., Flamme, H.E., Barnhart, W.D., Gold, R.D., and Furlong, K.P.</strong> (2017). Tectonic summaries of magnitude 7 and greater earthquakes from 2000 to 2015: U.S. Geological Survey Open File Report 2016–1192, 148 p.</p>
-<p> -<strong>Goldberg, D. E., Taymaz, T., Reitman, N. G., Hatem, A. E., Yolsal‐Çevikbilen, S., Barnhart, W. D., Irmak, T. S., Wald, D. J., Öcalan, T., Yeck, W. L., Özkan, B., Jobe, J. A. T., Shelly, D. R., Thompson, E. M., DuRoss, C. B., Earle, P. S., Briggs, R. W., Benz, H., Erman, C., Doğan, A. H., & Altuntaş, C.</strong> (2023). Rapid characterization of the February 2023 Kahramanmaraş, Türkiye, earthquake sequence. The Seismic Record, <em>3</em>(2), 156–167.</p>
-<p> -<strong>Gallovič, F., Imperatori, W., & Mai, P. M.</strong> (2015). Effects of three-dimensional crustal structure and smoothing constraint on earthquake slip inversions: Case study of the Mw6.3 2009 L'Aquila earthquake. Journal of Geophysical Research, 120, 428–449.</p>
-<p> -<strong>Yagi, Y., Okuwaki, R., Enescu, B., Kasahara, A., Miyakawa, A., & Otsubo, M.</strong> (2016). Rupture process of the 2016 Kumamoto earthquake in relation to the thermal structure around Aso volcano. Earth, Planets and Space, 68(1), 1–6.</p>
-<p> -<strong>López-Comino, J. A., Stich, D., Morales, J., & Ferreira, A.</strong> (2016). Resolution of rupture directivity in weak events: 1D versus 2D source parameterizations for the 2011, Mw 4.6 and 5.2 Lorca earthquakes, Spain. Journal of Geophysical Research, 121(8), 6608–6626.</p>
-<p> -<strong>Danciu, L., Giardini, D., Weatherill, G., Basili, R., Nandan, S., Rovida, A., Beauval, C., Bard, P.-Y., Pagani, M., Reyes, C. G., Sesetyan, K., Vilanova, S., Cotton, F., and Wiemer, S.</strong> The 2020 European Seismic Hazard Model: overview and results, Nat. Hazards Earth Syst. Sci., 24, 3049–3073, https://doi.org/10.5194/nhess-24-3049-2024, 2024.</p>
-<p> -<strong>HERP</strong> (2014). Headquarters for Earthquake Research Promotion. The National Seismic Hazard Map 2014 version—with an overview on the ground motion hazard of the whole country. Technical report, Headquarters for Earthquake Research Promotion (in Japanese). Available at: https://www.jishin.go.jp/evaluation/seismic_hazard_map/shm_report/shm_report_2014/ (last accessed May 2025).</p>
-<p> -<strong>Rao A, Yepes-Estrada C, Johnson K, Todorović L, Pagani M, Simionato M, Styron R, Silva V, Crowley H</strong> (2025). Evolution of the OpenQuake Engine: Enhanced Capabilities, Collaborative Development, and Global Adoption. Earthquake Spectra, in press.</p>
-<p> -<strong>Garcia J, Weatherill GW, Pagani M, Rodriguez L and Poggi V and the SARA Working Group</strong> (2017) Building an open seismic hazard model for South America: The SARA-PSHA model. In: Proceedings of the 16th world conference on earthquake engineering, Santiago, 9–13 January.</p>
-<p> -<strong>Pagani, M., Monelli, D., Weatherill, G., et al.</strong> (2014). OpenQuake engine: An open hazard (and risk) software for the global earthquake model. Seismological Research Letters, 85(3), 692–702.</p>
-</div>
+###### **Danciu, L., Giardini, D., Weatherill, G., Basili, R., Nandan, S., Rovida, A., Beauval, C., Bard, P.-Y., Pagani, M., Reyes, C. G., Sesetyan, K., Vilanova, S., Cotton, F., and Wiemer, S.** The 2020 European Seismic Hazard Model: overview and results, Nat. Hazards Earth Syst. Sci., 24, 3049–3073, https://doi.org/10.5194/nhess-24-3049-2024, 2024.
+
+###### **Gallovič, F., Imperatori, W., & Mai, P. M.** (2015). Effects of three-dimensional crustal structure and smoothing constraint on earthquake slip inversions: Case study of the Mw6.3 2009 L'Aquila earthquake. Journal of Geophysical Research, 120, 428–449.
+
+###### **Garcia J, Weatherill GW, Pagani M, Rodriguez L and Poggi V and the SARA Working Group** (2017) Building an open seismic hazard model for South America: The SARA-PSHA model. In: Proceedings of the 16th world conference on earthquake engineering, Santiago, 9–13 January.
+
+###### **Goldberg, D. E., Taymaz, T., Reitman, N. G., Hatem, A. E., Yolsal‐Çevikbilen, S., Barnhart, W. D., Irmak, T. S., Wald, D. J., Öcalan, T., Yeck, W. L., Özkan, B., Jobe, J. A. T., Shelly, D. R., Thompson, E. M., DuRoss, C. B., Earle, P. S., Briggs, R. W., Benz, H., Erman, C., Doğan, A. H., & Altuntaş, C.** (2023). Rapid characterization of the February 2023 Kahramanmaraş, Türkiye, earthquake sequence. The Seismic Record, *3*(2), 156–167.
+
+###### **Hayes, G.P., Myers, E.K., Dewey, J.W., Briggs, R.W., Earle, P.S., Benz, H.M., Smoczyk, G.M., Flamme, H.E., Barnhart, W.D., Gold, R.D., and Furlong, K.P.** (2017). Tectonic summaries of magnitude 7 and greater earthquakes from 2000 to 2015: U.S. Geological Survey Open File Report 2016–1192, 148 p.
+
+###### **HERP** (2014). Headquarters for Earthquake Research Promotion. The National Seismic Hazard Map 2014 version—with an overview on the ground motion hazard of the whole country. Technical report, Headquarters for Earthquake Research Promotion (in Japanese). Available at: https://www.jishin.go.jp/evaluation/seismic_hazard_map/shm_report/shm_report_2014/ (last accessed May 2025).
+
+###### **López-Comino, J. A., Stich, D., Morales, J., & Ferreira, A.** (2016). Resolution of rupture directivity in weak events: 1D versus 2D source parameterizations for the 2011, Mw 4.6 and 5.2 Lorca earthquakes, Spain. Journal of Geophysical Research, 121(8), 6608–6626.
+
+###### **Pagani, M., Monelli, D., Weatherill, G., et al.** (2014). OpenQuake engine: An open hazard (and risk) software for the global earthquake model. Seismological Research Letters, 85(3), 692–702.
+
+###### **Rao A, Yepes-Estrada C, Johnson K, Todorović L, Pagani M, Simionato M, Styron R, Silva V, Crowley H** (2025). Evolution of the OpenQuake Engine: Enhanced Capabilities, Collaborative Development, and Global Adoption. Earthquake Spectra, in press.
+
+###### **Yagi, Y., Okuwaki, R., Enescu, B., Kasahara, A., Miyakawa, A., & Otsubo, M.** (2016). Rupture process of the 2016 Kumamoto earthquake in relation to the thermal structure around Aso volcano. Earth, Planets and Space, 68(1), 1–6.
