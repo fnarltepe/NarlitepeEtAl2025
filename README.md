@@ -2,8 +2,17 @@
   <span style="font-size: 42px;">📋</span>
   <span style="font-size: 28px;"> Overview</span>
 </h1>
+<p align="justify">
+This repository hosts the rupture models for the study titled "Impact of Rupture Geometry Modeling on Rapid Earthquake Loss Assessments." The research addresses a critical challenge in post-earthquake response: accurately estimating ground shaking when detailed rupture information is not immediately available. We systematically evaluate the performance of different rupture modeling approaches,from simple Point-Source models to Planar and Pre-Calculated ruptures, against a Benchmark model. This evaluation is conducted over five real earthquakes, allowing for a controlled comparison of how each method performs across different magnitudes and tectonic contexts.
+</p>
+<div align="center">
+  <img src="./EarthquakeScenarios.png" width="600" alt="Research Methodology">
+</div>
 
-# Rupture Models for Each Earthquake Scenario
+<h1 align="left">
+  <span style="font-size: 42px;">📋</span>
+  <span style="font-size: 28px;"> Earthquake Scenarios </span>
+</h1>
 
 <table>
   <thead>
@@ -81,6 +90,18 @@
 - <sup>d</sup>: https://earthquake.usgs.gov/earthquakes/eventpage/us20005iis/moment-tensor  				
 - <sup>e</sup>: https://earthquake.usgs.gov/earthquakes/eventpage/usp000gvtu/moment-tensor   
 - <sup>f</sup>: https://earthquake.usgs.gov/earthquakes/eventpage/usp000j1en/moment-tensor  	
+
+<h1 align="left">
+  <span style="font-size: 42px;">📋</span>
+  <span style="font-size: 28px;"> Methodology </span>
+</h1>
+<div align="center">
+  <img src="./Flowchart.jpg" width="600" alt="Research Methodology">
+</div>
+
+
+
+
 
 # References:
 - Hayes, G.P., Myers, E.K., Dewey, J.W., Briggs, R.W., Earle, P.S., Benz, H.M., Smoczyk, G.M., Flamme, H.E., Barnhart, W.D., Gold, R.D., and Furlong, K.P. (2017). Tectonic summaries of magnitude 7 and greater earthquakes from 2000 to 2015: U.S. Geological Survey Open File Report 2016–1192, 148 p.
