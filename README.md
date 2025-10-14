@@ -129,7 +129,7 @@ These different modeling options are tested using the OpenQuake engine (Pagani e
 
 
 <div align="center">
-  <img src="./Flowchart.jpg" width="1000" alt="Research Methodology">
+  <img src="./Flowchart.jpg" width="1000" alt="Methodology">
 </div>
 
 
