@@ -4,10 +4,9 @@
 </h1>
 <p align="justify">
 This repository serves as an archive for the  rupture models used in the study, "Impact of Rupture Geometry Modeling on Rapid Earthquake Loss Assessments." The research addresses a pivotal challenge in the field of rapid impact assessment: the accurate quantification of ground-shaking intensity in the immediate aftermath of a significant seismic event, when constraints on finite-fault rupture geometry are typically limited. To systematically investigate this issue, the study conducts a rigorous comparative analysis of different rupture modeling methodologies. These approaches are from simplified Point-Source approximations to more geometrically refined Planar and Pre-Calculated rupture models. The performance of these rupture models is evaluated against a Benchmark rupture model, which is based on detailed, published finite-fault solutions where available.
-
+<p align="justify">
 The evaluation framework is applied to a comprehensive suite of scenario earthquakes, meticulously selected to encompass a diverse range of seismic magnitudes and tectonic settings. This enables a robust and systematic comparison, evaluating the sensitivity of loss estimates to the choice of rupture characterization across different seismogenic environments. 
-
-The findings provide critical insights and practical recommendations for enhancing the accuracy and reliability of rapid post-earthquake impact assessments, particularly for institutions and organizations responsible for emergency response and resource allocation.
+<p align="justify">
 </p>
 
 <h1 align="left">
